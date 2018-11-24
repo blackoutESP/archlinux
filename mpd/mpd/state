@@ -1,0 +1,22 @@
+sw_volume: 100
+audio_device_state:1:Visualizer feed
+audio_device_state:1:My Pulse Output
+state: play
+current: 6
+time: 34.411000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Halestorm/Halestorm - Halestorm (2009)/05 Familiar Taste of Poison.mp3
+1:Halestorm/Halestorm - Halestorm (2009)/09 Better Sorry Than Safe.mp3
+2:Halestorm/The Strange Case Of/07 Break In.mp3
+3:Halestorm/The Strange Case Of/05 Beautiful with You.mp3
+4:Halestorm/Into the Wild Life/04 Amen.mp3
+5:Halestorm/Into the Wild Life/12 What Sober Couldn't Say.mp3
+6:Evanescence/Evanescence/07. Lost in Paradise.mp3
+playlist_end
