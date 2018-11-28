@@ -23,7 +23,7 @@ visualizer_in_stereo = yes
 visualizer_sample_multiplier = 1
 visualizer_sync_interval = 30
 ## Available values: spectrum, wave.
-visualizer_type = spectrum
+visualizer_type = ellipse
 visualizer_look = ●▮
 
 ##### system encoding #####
@@ -214,13 +214,14 @@ playlist_show_remaining_time = yes
 ##
 ## Note: Possible display modes: classic, columns.
 ##
-playlist_display_mode = columns
+#playlist_display_mode = columns
+playlist_display_mode = classic
 #
-browser_display_mode = columns
+browser_display_mode = classic
 #
 #search_engine_display_mode = columns
 #
-playlist_editor_display_mode = columns
+playlist_editor_display_mode = classic
 #
 #discard_colors_if_item_is_selected = yes
 #
@@ -267,7 +268,7 @@ progressbar_boldness = no
 #
 #default_tag_editor_pattern = %n - %t
 #
-#header_visibility = yes
+header_visibility = yes
 #
 statusbar_visibility = yes
 #
