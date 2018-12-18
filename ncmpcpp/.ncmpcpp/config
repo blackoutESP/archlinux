@@ -268,7 +268,7 @@ progressbar_boldness = no
 #
 #default_tag_editor_pattern = %n - %t
 #
-#header_visibility = yes
+header_visibility = yes
 #
 statusbar_visibility = yes
 #
