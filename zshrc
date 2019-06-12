@@ -110,6 +110,7 @@ alias ports='sudo netstat -tulanp'
 alias youtube-dl='youtube-dl -k'
 alias inxi='sudo inxi -Fxz'
 alias cuandoinstalelinux='ls -lct /etc | tail -1 | awk '{print $7, $6, $8}''
+alias clamscan='clamscan --recursive --infected --remove -l /home/blackout/infected.txt /home'
 neofetch
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
